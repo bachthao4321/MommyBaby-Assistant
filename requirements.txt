@@ -155,7 +155,6 @@ python-iso639==2024.10.22
 python-magic==0.4.27
 python-multipart==0.0.17
 pytz==2024.2
-pywin32==308
 PyYAML==6.0.2
 RapidFuzz==3.10.1
 referencing==0.35.1
